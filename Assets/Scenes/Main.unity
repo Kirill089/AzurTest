@@ -1576,14 +1576,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Scaffold
       objectReference: {fileID: 0}
-    - target: {fileID: 100004, guid: 96277ceebc5377447aa2d5d5795d7c55, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 100004, guid: 96277ceebc5377447aa2d5d5795d7c55, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 96277ceebc5377447aa2d5d5795d7c55, type: 3}
       propertyPath: m_LocalPosition.x
       value: 23.95
